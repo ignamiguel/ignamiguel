@@ -1,1 +1,2 @@
-Visit this site at https://ignamiguel.github.io/ignamiguel/
+Hi 👋
+My name is Ignacio, and I'm a Software Engineer Manager.
